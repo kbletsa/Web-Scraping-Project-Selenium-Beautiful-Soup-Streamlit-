@@ -155,11 +155,6 @@ The app (`app.py`) offers:
 4. **A model only creates value once it's accessible** — wrapping the trained model in a Streamlit app turns it into a usable tool rather than just a notebook exercise.
 5. **A complete pipeline** — Selenium scrapes, Pandas cleans, MongoDB stores flexibly, and Streamlit delivers the final value to the user.
 
-## 👥 Team
-
-- Konstantina Marina Bletsa (AEM 243)
-- Maria Karlaki (AEM 244)
-
 ## 🔗 Links
 
 - GitHub repository: [Web-Scraping-Project-Selenium-Beautiful-Soup-Streamlit](https://github.com/kbletsa/Web-Scraping-Project-Selenium-Beautiful-Soup-Streamlit)
